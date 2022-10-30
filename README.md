@@ -5,7 +5,6 @@
 💬 Ask me about PHP , Laravel<br>
 📫 You can contact me at mobina.nezhadjfarian@gmail.com
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mobinajafarian&label=Profile%20views&color=0e75b6&style=flat" alt="mobinajafarian" /> </p>
 
 ## 🌐 Socials:
 <p align="left">
@@ -28,8 +27,4 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=mobinajafarian&icon=0&color=10)](https://visitcount.itsvg.in)
-
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=MobinaJafarian&label=Profile%20Views&color=10&icon=0&pretty=true" />
-</a>
+![](https://visitcount.itsvg.in/api?id=mobinajafarian&icon=0&color=10)

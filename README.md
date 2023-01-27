@@ -27,7 +27,7 @@
   <img align="center" src="https://img.icons8.com/color/2x/gitlab.png" alt="mobina-jafarian" height="30" width="40" /></a>
 <a href="https://mobina.nezhadjfarian@gmail.com" target="blank">
   <img align="center" src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-gmail-icon-download-png-and-vector-1.png" alt="mobina-jafarian" height="30" width="40" /></a>
-<a href="https://twitter.com/mobinanj" target="blank">
+<a href="https://twitter.com/MobinaJafarian" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt=mobina-jafarian" height="30" width="40" /></a> 
 </p>
 

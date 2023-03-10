@@ -42,6 +42,11 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+<a href="https://redis.io/" target="_blank" rel="noreferrer">                                                                                                          <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" width=40 height=40> </a> 
+<a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="sass" width="40" height="40"/> </a>  
+<a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="sass" width="40" height="40"/> </a>
 <a href="https://postman.com" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
@@ -52,8 +57,9 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a> 
 <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
+<a href="https://laravel-livewire.com/" target="_blank" rel="noreferrer">                                                                                        
+<img src="https://avatars.githubusercontent.com/u/73666563?v=4" width=40 height=40></a>                                                                                                                                               
 </p>
-
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MobinaJafarian&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>

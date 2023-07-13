@@ -19,13 +19,13 @@
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="/17316590/mobina-jafarian" height="30" width="40" /></a>
 <a href="https://dev.to/mobinajafarian" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mobina-jafarian" height="30" width="40" /></a> 
-<a href="https://gitlab.com/MobinaJafarian" target="blank">
+<a href="https://gitlab.com/Mobina.Jafarian" target="blank">
   <img align="center" src="https://img.icons8.com/color/2x/gitlab.png" alt="mobina-jafarian" height="30" width="40" /></a>
 <a href="https://mobina.nezhadjfarian@gmail.com" target="blank">
   <img align="center" src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-gmail-icon-download-png-and-vector-1.png" alt="mobina-jafarian" height="30" width="40" /></a>
 <a href="https://twitter.com/MobinaJafarian" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt=mobina-jafarian" height="30" width="40" /></a> 
-<a href="https://t.me/mobina_nj1" target="blank">
+<a href="https://t.me/MobinaJafarian" target="blank">
   <img align="center" src="https://img.icons8.com/fluency/48/null/telegram-app.png" alt="mobina-jafarian" /></a>
 </p>
 

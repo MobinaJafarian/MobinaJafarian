@@ -6,7 +6,7 @@
 
 # 💫 About Me:
 💡 I’m Mobina Jafarian, A Software Engineer who is looking to grow as a Back-end Developer<br><!-- 🔭 I’m currently working on https://github.com/MobinaJafarian/laravelCmsProject<br> -->
-🌱 I’m currently learning Laravel<br>
+🌱 I’m currently learning Go<br>
 💬 Ask me about PHP , Laravel<br>
 📫 You can contact me at mobina.nezhadjfarian@gmail.com
 

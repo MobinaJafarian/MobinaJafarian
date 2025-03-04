@@ -14,7 +14,7 @@ I am committed to enhancing my expertise in creating efficient and scalable appl
 </div>
 
 <p align="center">
-  <a href="https://linkedin.com/in/mobina-jafarian" target="blank">
+  <a href="https://linkedin.com/in/mobinajafarian" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mobina-jafarian" height="30" width="40" />
   </a>
   <a href="https://stackoverflow.com/users/17316590/mobina-jafarian" target="blank">

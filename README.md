@@ -29,7 +29,7 @@ I am committed to enhancing my expertise in creating efficient and scalable appl
   <a href="https://x.com/MobinaJafarian" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="30" alt="twitter logo"  />
   </a>
-  <a href="https://t.me/MobinaJafarian" target="blank">
+  <a href="https://t.me/mobinajfarian" target="blank">
     <img align="center" src="https://img.icons8.com/fluency/48/null/telegram-app.png" alt="mobina-jafarian" />
   </a>
 </p>
